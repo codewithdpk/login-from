@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 50px;
+  background-color: #fff;
+}
+
+.card-main {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  height: 400px;
+  position: relative;
+  padding: 30px;
+}
+
+.input-field {
+  width: 100%;
+  height: 40px;
+  background-color: #e4e4e4;
+  border: 1px solid #e4e4e4;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #818181;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+
+.submit-btn {
+  width: 100%;
+  height: 40px;
+  background-color: #000;
+  border: 1px solid #000;
+  margin-top: 25px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.submit-btn:hover {
+  width: 100%;
+  height: 40px;
+  background-color: #fff;
+  border: 1px solid #000;
+  margin-top: 25px;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.terms {
+  margin-top: 20px;
+  color: #818181;
+  font-size: 10px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
